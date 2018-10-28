@@ -1,0 +1,33 @@
+body{
+  margin: 5% 10%;
+  background-color: rgb(251,186,22);
+
+}
+
+h1{
+  font-size: 3em;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(46,46,46);
+  color: rgb(251,186,22);
+  margin-bottom: 20px;
+  color: white;
+}
+
+form{
+  padding-bottom: 20px;
+}
+
+select, #submit, #date{
+  background-color: white;
+  font-size: 1.2em;
+  border: none;
+  padding: 5px 10px;
+}
+
+#answer{
+  background-color: white;
+  color: black;
+  padding: 5px 10px;
+
+}
